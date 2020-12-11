@@ -1,1 +1,1 @@
-Git is a version control system distributed under the GPL.
+Git(VCS) is a version control system distributed under the GPL.
